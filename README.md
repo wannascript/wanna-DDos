@@ -12,4 +12,4 @@ For start enter
 
 cd
 
-cd ddoser python3 ddos.py
+cd wanna-doser python3 ddos.py
